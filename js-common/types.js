@@ -1,5 +1,5 @@
 // strongly typed Language
-// int a = 5;
+//int a = 5;
 // string b = 'alim halim khalim';
 // bool c = True;
 // object student = { name: 'noya dhman', id: 55}
@@ -22,11 +22,11 @@ const student = {id: 23, class: 7};
 
 let x = 5;
 let y = x;
-console.log(x, y);
+// console.log(x, y);
 y = 7;
-console.log(x, y);
+// console.log(x, y);
 
 let p = {job: 'web developer'}
 let q = p;
 q.job = 'front end developer';
-console.log(p, q);
+// console.log(p, q);
